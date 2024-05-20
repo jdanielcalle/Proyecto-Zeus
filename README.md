@@ -22,8 +22,8 @@ El segundo microservicio, también desarrollado con Java 17 y Spring Boot, se en
 
    ![Clases](https://github.com/zapatac2312/Proyecto-Zeus/blob/master/UML%20microservicio%20secundario.png)
 
-Aqui peudes encontrar el enlace del repositorio de ese microservicio!
-https://github.com/zapatac2312/Proyecto-Zeus-Aux-microservice
+Aqui puedes encontrar el enlace del repositorio de ese microservicio!
+https://github.com/jdanielcalle/TrainingReports
 
 ## 🏛️Conexión con la base de datos principal
 4. Diagrama entidad relación:
